@@ -1,0 +1,1 @@
+sudo ln -s ~/s3-drive/scripts/s3-drive-sync.sh /usr/local/bin/s3-drive-sync
