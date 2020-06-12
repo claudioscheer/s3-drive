@@ -25,13 +25,13 @@ conda activate aws
 ### Pull files
 
 ```console
-s3-drive-sync.sh pull
+s3-drive-sync pull
 ```
 
 ### Push files
 
 ```console
-s3-drive-sync.sh push
+s3-drive-sync push
 ```
 
 ### Full sync
@@ -39,7 +39,7 @@ s3-drive-sync.sh push
 To make a full sync between S3 and the instance, or vice versa, use the following:
 
 ```console
-s3-drive-sync.sh <push or pull> --delete
+s3-drive-sync <push or pull> --delete
 ```
 
 ## To do
